@@ -4,3 +4,9 @@ remote_theme: daattali/beautiful-jekyll@6.0.1   # latest tagged release
 plugins:
   - jekyll-remote-theme        # GitHub auto-enables it, but keep it for local builds
   - jekyll-include-cache       # Beautiful Jekyll uses this for performance
+
+navbar-links:
+  Resume: "cv"
+  Research: "research"
+  Teaching: "teaching"
+  Blog: "/blog/"       # leading / because blog is a folder of posts
