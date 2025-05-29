@@ -18,7 +18,7 @@ I think often about reality, beauty, and truth — not as fixed things to define
 
 ---
 
-## Some Links   {#quick-links}
+## Quick Links   {#quick-links}
 <!-- Update the paths only if you rename the pages. -->
 For my academic CV and industry resume, see 
 [**CV / Résumé**](/cv/) 
@@ -26,35 +26,11 @@ For my academic CV and industry resume, see
 For my research insterests, papers and notes, see
 [**Research**](/research/) ·
 
-Follow my job preparation logs and random thoughts.
+Follow my job preparation logs and some random thoughts, click
 [**Blog**](/blog/)
 
 ---
 
-## Research Interests
-
-I'm interested in undersatnding the descriptive set theoretic structures of objects from other areas of mathematics.
-
-* Descriptive set theoretic complxity of Lascar strong types from model theory  
-* Analytic P-ideals, their Tukey/Borel-reducibility structures, and essential appilcations to Polish modules
-* Puzzles about foundamental mathemitical objects, such as sets, natural numbers, linears orders and etc
-
-Question: Consider the real number R as Q-vector space, take two uncountable Borel Q-vector subspaces of it. Abstractly these spaces are linearly isomorphic because they have the same cardinality. If we require isomorphisms to be Borel, is it true that they are still isomophic? 
-
-*(For the answer to this and my papers and notes, see the [research page](/research/))*
-
-
-
-## Latest Blog Posts
-<!-- Shows your three most-recent posts automatically. No edits needed here. -->
-{% for post in site.posts limit:3 %}
-* **[{{ post.title }}]({{ post.url }})** <small>{{ post.date | date: "%Y-%m-%d" }}</small>  
-  {{ post.excerpt }}
-{% endfor %}
-
-[&nbsp;→ All posts](/blog/)
-
----
 
 ## Contact
 * dexuan.hu0928@gmail.com  
