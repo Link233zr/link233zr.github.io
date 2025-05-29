@@ -1,10 +1,6 @@
-# _config.yml
 title: Dexuan Hu
 description: Personal site, research & notes
 remote_theme: daattali/beautiful-jekyll@v6.0.1   # latest tagged release
 plugins:
-   jekyll-remote-theme        # GitHub auto-enables it, but keep it for local builds
-   jekyll-include-cache       # Beautiful Jekyll uses this for performance
-
- 
-
+  - jekyll-remote-theme        # GitHub auto-enables it, but keep it for local builds
+  - jekyll-include-cache       # Beautiful Jekyll uses this for performance
