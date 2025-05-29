@@ -1,1 +1,1 @@
-yaml<br>---<br>layout: page<br>title: Research<br>permalink: <br>---
+<br>---<br>layout: page<br>title: Research<br>permalink: <br>---
