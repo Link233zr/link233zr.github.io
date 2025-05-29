@@ -1,3 +1,8 @@
+---
+layout: page                
+title: "Research" 
+---
+
 ## Research Interests
 
 I'm interested in undersatnding the descriptive set theoretic structures of objects from other areas of mathematics.
