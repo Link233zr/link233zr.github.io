@@ -34,6 +34,6 @@ Follow my job preparation logs and some random thoughts, click
 
 ## Contact
 * dexuan.hu0928@gmail.com  
-* [LinkedIn](https://linkedin.com/in/dexuanhu)
+* [LinkedIn](https://www.linkedin.com/in/dexuan-hu-72251b136/)
 
 <!-- Feel free to remove any section you don’t need. Happy editing! -->
