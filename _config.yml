@@ -8,5 +8,5 @@ plugins:
 navbar-links:
   Resume: "cv"
   Research: "research"
-  Teaching: "teaching"
+  # Teaching: "teaching"
   Blog: "/blog/"       # leading / because blog is a folder of posts
