@@ -15,5 +15,8 @@ Question: Consider the real number R as Q-vector space, take two uncountable Bor
 
 ## Papers and Preprints
 
-Polish modules over subrings of Q, *Israel J. Math.*, accepted; joint with Slawomir Solecki [\[pdf\]](/file/Q-subspaces-May2024-fin.pdf)
+Polish modules over subrings of Q, *Israel J. Math.*, accepted; joint with S. Solecki [\[pdf\]](/file/Q-subspaces-May2024-fin.pdf)
 
+## Other PDFs
+
+I have a short note about a classical example of non-G-compact theory due to Ziegler.[\[pdf\]](/file/Notes_on_Ziegler_s_Example.pdf)
