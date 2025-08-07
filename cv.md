@@ -13,6 +13,6 @@ permalink: /cv/
 
 ## Quick Info
 - Current position: PhD Candidate, Cornell University (Mathematical Logic)
-- Research areas: Descriptive set theory
-- School Email: dh623@school.edu
+- Research areas: Descriptive set theory, model theory
+- School Email: dh623@cornell.edu
 ---
