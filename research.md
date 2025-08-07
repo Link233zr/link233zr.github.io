@@ -13,4 +13,7 @@ I'm interested in undersatnding the descriptive set theoretic structures of obje
 
 Question: Consider the real number R as Q-vector space, take two uncountable Borel Q-vector subspaces of it. Abstractly these spaces are linearly isomorphic because they have the same cardinality. If we require isomorphisms to be Borel, is it true that they are still isomophic? 
 
+## Papers and Preprints
+
+Polish modules over subrings of Q, *Israel J. Math.*, accepted; joint with Slawomir Solecki [\[pdf\]](/file/Q-subspaces-May2024-fin.pdf)
 
