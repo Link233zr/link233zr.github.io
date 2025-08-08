@@ -24,7 +24,7 @@ For my academic CV and industry resume, see
 [**CV / Résumé**](/cv/) 
 
 For my research insterests, papers and notes, see
-[**Research**](/research/) ·
+[**Research**]({{ "/research/" | relative_url }}) ·
 
 Follow my job preparation logs and some random thoughts, click
 [**Blog**](/blog/)
