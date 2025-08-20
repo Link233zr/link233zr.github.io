@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "CV & Resume"
+title: "CV"
 permalink: /cv/
 ---
 
 
 
 - **Academic CV** — [View pdf]({{ "/files/Academic_CV.pdf" | relative_url }})  ·  <a href='{{ "/files/Academic_CV.pdf" | relative_url }}' download>Download</a>
-- **Resume** — [View pdf]({{ "/files/Resume_One_Page.pdf" | relative_url }})  ·  <a href='{{ "/files/Resume_One_Page.pdf" | relative_url }}' download>Download</a>
+
 
 ---
 
