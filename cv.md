@@ -9,6 +9,7 @@ permalink: /cv/
 - **Academic CV** — [View pdf]({{ "/files/Academic_CV.pdf" | relative_url }})  ·  <a href='{{ "/files/Academic_CV.pdf" | relative_url }}' download>Download</a>
 
 
+
 ---
 
 # Quick Info
