@@ -20,8 +20,8 @@ I think often about reality, beauty, and truth — not as fixed things to define
 
 ## Quick Links   {#quick-links}
 <!-- Update the paths only if you rename the pages. -->
-For my academic CV and industry resume, see 
-[**CV / Résumé**](/cv/) 
+For my academic CV, see 
+[**CV**](/cv/) 
 
 For my research insterests, papers and notes, see
 [**Research**]({{ "/research/" | relative_url }}) ·
